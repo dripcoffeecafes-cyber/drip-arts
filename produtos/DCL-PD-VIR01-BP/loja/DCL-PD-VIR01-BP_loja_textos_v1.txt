@@ -1,0 +1,29 @@
+DRIP PITÁGORAS (DCL-PD-VIR01-BP) | LOJA BLOOMING E SITE | TEXTOS PRONTOS PARA COLAR
+=================================================================================
+
+Esta pasta serve à loja (www.bloomingclub.com.br) e ao site da Drip (driplabel.bloomingclub.com.br).
+
+NOME DO PRODUTO
+Drip Coffee Pitágoras | Presente Engraçado com Café Especial
+
+SKU
+DCL-PD-VIR01-BP
+
+DESCRIÇÃO COMPLETA
+Colar o conteúdo do arquivo DCL-PD-VIR01-BP_loja_descricao_v2.html no editor da loja, no modo HTML (código).
+
+DESCRIÇÃO CURTA (resumo, card do site e vitrine)
+A bronca mais famosa da matemática virou drip coffee. Sachê premium 10 x 15 cm exclusivo, arte colorida frente e verso e café especial com mais de 80 pontos (SCA), origem única Sul de Minas, Região Vulcânica. Produto pronto: comprou, a gente envia.
+
+SEO DA PÁGINA
+- Título SEO (até 60 caracteres): Drip Coffee Pitágoras | Presente Engraçado com Café Especial
+- Meta descrição (até 155 caracteres): Drip coffee do meme do Pitágoras: presente engraçado para professor, engenharia e amigo secreto, com café especial 80+ SCA. Pronto para enviar.
+- URL sugerida: /drip-pitagoras
+- Palavras-chave: drip coffee pitágoras, presente engraçado professor, presente engenharia, amigo secreto criativo, drip coffee presente, café especial em sachê
+
+MÍDIAS
+- Imagens: DCL-PD-VIR01-BP_loja_01 a 08 desta pasta, nessa ordem (a 01 é a principal).
+- Vídeo: DCL-PD-VIR01-BP_loja_video_9x16_v1.mp4 desta pasta.
+
+DEFINIR NO CADASTRO
+Quantidade de sachês no kit, preço (por unidade igual ao Branco Premium personalizado), peso e medida da caixa.

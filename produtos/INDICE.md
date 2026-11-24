@@ -4,8 +4,8 @@ Ponto de partida para quem precisa das artes de produto (projeto do site, loja, 
 
 ## Como usar
 - Cada produto tem um código e uma pasta: `produtos/<código>/`.
-- Site e loja: use só a subpasta `loja/`, com as imagens 1500 x 1500 em PNG (`<código>_loja_<nº>_<peça>_v<n>.png`, em ordem pelo número), a descrição em HTML (`<código>_loja_descricao_v<n>.html`) e, quando houver, o vídeo.
-- `ml/` (Mercado Livre) e `shopee/` são versões para marketplace: sem @, WhatsApp e links. Não servem para o site.
+- Site e loja: use só a subpasta `loja/`, com as imagens 1500 x 1500 em PNG (`<código>_loja_<nº>_<peça>_v<n>.png`, em ordem pelo número), a descrição em HTML (`<código>_loja_descricao_v<n>.html`), os textos prontos (nome, descrição curta e SEO em `<código>_loja_textos_v<n>.txt`) e, quando houver, o vídeo.
+- `ml/` (Mercado Livre) e `shopee/` são versões para marketplace: sem @, WhatsApp e links. Não servem para o site. Cada uma tem seu arquivo de textos pronto para colar (`<código>_<canal>_textos_v<n>.txt`: título, cadastro, descrição, mensagem pós-venda e respostas).
 - Vale sempre a maior versão (`_v<n>`). Versões antigas vão para `_arquivo/` dentro da pasta.
 - Status: **pronto** (arte entregue, ainda não está no site) ou **no ar** (já publicado). Quando o site publicar um produto, avise o projeto Drip Coffee Label para mudar o status aqui.
 
