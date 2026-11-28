@@ -14,6 +14,7 @@ Ponto de partida para quem precisa das artes de produto (projeto do site, loja, 
 | Código | Produto | Linha | Status no site | Pasta do site | Vídeo para o site | Atualizado |
 |---|---|---|---|---|---|---|
 | DCL-PD-VIR01-BP | Drip Pitágoras (Branco Premium 10 x 15, meme do teorema) | Padronizado (arte pronta, venda direta) | pronto | [produtos/DCL-PD-VIR01-BP/loja/](DCL-PD-VIR01-BP/loja/) | [ml/DCL-PD-VIR01-BP_ml_video_9x16_v1.mp4](DCL-PD-VIR01-BP/ml/DCL-PD-VIR01-BP_ml_video_9x16_v1.mp4) (9:16, serve ao site) | 24/11/2026 |
+| DCL-PD-NAT26-PR | Kit Drip de Natal (20 sachês, 5 artes de Natal, 4 de cada; Kraft e Branco Premium 10 x 15) | Padronizado (arte pronta, venda direta) | pronto (só ML e Shopee) | sem pasta `loja/` | [ml/DCL-PD-NAT26-PR_ml_video_9x16_v1.mp4](DCL-PD-NAT26-PR/ml/DCL-PD-NAT26-PR_ml_video_9x16_v1.mp4) | 28/11/2026 |
 | DCL-KC-1012 | Kraft Clássico 10 x 12 | Personalizado | no ar | sem pasta `loja/` (arte do site feita no projeto do site) | não | 24/11/2026 |
 | DCL-BP-1015 | Branco Premium 10 x 15 | Personalizado | no ar | sem pasta `loja/` (arte do site feita no projeto do site) | não | 24/11/2026 |
 | DCL-KP-1015 | Kraft Premium 10 x 15 | Personalizado | no ar | sem pasta `loja/` (arte do site feita no projeto do site) | não | 24/11/2026 |
